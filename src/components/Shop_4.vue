@@ -127,7 +127,7 @@ const teble=ref([]);
   justify-content: center;
   align-items: center;
   margin: auto;
-  background-image: linear-gradient( 135deg, #FD6585 10%, #0D25B9 100%);
+  background-image: linear-gradient( 135deg, #FD6585 , #0D25B9 ); 
 }
 .buttom{
   width: 100px;
